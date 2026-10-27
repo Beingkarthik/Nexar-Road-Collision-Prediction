@@ -1,0 +1,81 @@
+# ==========================================
+# Python cache and compiled files
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================================
+# Virtual environments
+# ==========================================
+.venv/
+venv/
+env/
+ENV/
+
+# ==========================================
+# Secrets and environment variables
+# ==========================================
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# ==========================================
+# IDE and editor files
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================================
+# Operating system files
+# ==========================================
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ==========================================
+# Logs, temporary files and coverage
+# ==========================================
+*.log
+*.tmp
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# ==========================================
+# Jupyter notebook temporary files
+# ==========================================
+.ipynb_checkpoints/
+
+# ==========================================
+# Generated outputs and local predictions
+# ==========================================
+outputs/
+output/
+predictions/
+
+# ==========================================
+# Local development backups and helper scripts
+# ==========================================
+app_backup.py
+app_before_*.py
+add_*.py
+integrate_*.py
+fix_summary.py
+connect_sample_videos.py
+app_code.txt
+analysis_section.txt
+
+# ==========================================
+# Large demo videos excluded from initial push
+# ==========================================
+demo/videos/sample_01.mp4
+demo/videos/sample_02.mp4
+demo/videos/sample_03.mp4
+threshold).sum())
+Road_Collision_Prediction.ipynb
+Road_Collision_Prediction.ipynb
