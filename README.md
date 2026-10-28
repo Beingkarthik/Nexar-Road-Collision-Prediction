@@ -1,14 +1,8 @@
 # 🚗 RoadLens — AI-Based Road Collision & Near-Miss Prediction Using Computer Vision
 
-<<<<<<< HEAD
-**An interactive deep-learning application for analyzing dashcam videos, identifying potentially concerning frames, and visualizing model-generated collision-risk scores.**
-=======
 [🚀 Launch Live App](https://roadlens-collision-prediction.streamlit.app/)
 
-
-## Overview
-This application analyzes road videos using a trained ResNet18 model.
->>>>>>> 62c91c4 (docs: add live application link)
+**An interactive deep-learning application for analyzing dashcam videos, identifying potentially concerning frames, and visualizing model-generated collision-risk scores.**
 
 RoadLens explores how computer vision can support road-safety research by processing video frames with a trained ResNet18-based classifier and presenting the results through an interactive Streamlit dashboard.
 
